@@ -6,7 +6,7 @@ A chave do arquivo hash é o NIS.
 
 Para executar o projeto:
 
-  Baixe o arquivo data neste link: http://www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos
+  Baixe o arquivo bolsa neste link: http://www.portaltransparencia.gov.br/download-de-dados/bolsa-familia-pagamentos
   Importante: o nome dos arquivos devem ser bolsa-dez-2018.csv e bolsa-jan-2019.csv
 
   Compilar e executar : (DEVE SER SEGUIDO ESTA ORDEM EXATA)
