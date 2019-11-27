@@ -1,3 +1,5 @@
+Trabalho realizado pelos alunos: Pedro Telles e Vinicius Santos
+
 Repositório criado para o trabalho de Organização e Estrutura de Arquivos, onde fará um arquivo hash de um arquivo da bolsa família e depois uma operação de conjuntos, nesse caso será realizada a diferença entre os arquivos referentes à Janeiro de 2019 e Dezembro de 2018.
 
 Essa diferença pega as pessoas que tem somente no arquivo de Janeiro de 2019 e não tem no de Dezembro de 2018, ou seja, as pessoas que passaram a receber o auxílio bolsa família em Janeiro de 2019.
