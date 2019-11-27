@@ -11,6 +11,6 @@ Para executar o projeto:
 
   Compilar e executar : (DEVE SER SEGUIDO ESTA ORDEM EXATA)
 
-    Primeiro execute o CriaIndiceBolsaFamilia.py - Vai criar o arquivo de hash
+    Primeiro execute o CriaIndice.py - Vai criar o arquivo de hash
 
-    Depois execute o DiferencaBolsaFamilia.py - Vai comparar o arquivo de hash com o arquivo de pagamentos da bolsa
+    Depois execute o Diferenca.py - Vai comparar o arquivo de hash com o arquivo de pagamentos da bolsa
