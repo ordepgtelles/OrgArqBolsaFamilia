@@ -4,8 +4,8 @@ import os
 import csv
 
 hashSize = 17035841
-fileName = "data/bolsa-dez-2018.csv"
-indexName = "data/bolsa-hash.dat"
+fileName = "bolsa-dez-2018.csv"
+indexName = "bolsa-hash.dat"
 indexFormat = "11sLL"
 keyColumnIndex = 5
 
